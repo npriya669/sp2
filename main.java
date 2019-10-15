@@ -1,3 +1,5 @@
+//this is java file example
+
 import java.util.Scanner;
 
 class Calci
@@ -36,3 +38,5 @@ default: System.out.println("Invalid");
 }
 }
 } 
+
+//changes from dbda5
